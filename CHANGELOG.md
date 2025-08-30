@@ -35,3 +35,5 @@ Generated documentation for ai-reviewer.
 # PR Merge: 2025-10-18 - fix/merge-7238
 
 # PR Merge: 2025-10-18 - refactor/merge-2240
+
+# PR Update: 2025-10-18 - docs/update-9672
